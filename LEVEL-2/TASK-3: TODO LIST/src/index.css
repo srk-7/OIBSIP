@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+html {
+ font-size: 62.5%;
+}
+.divv{
+font-size: 3rem;
+text-align: center;
+margin-top: 1rem;
+margin-bottom: 0rem;
+font-family: monospace;
+text-shadow: 1rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
